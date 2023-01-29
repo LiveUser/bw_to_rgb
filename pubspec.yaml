@@ -1,6 +1,7 @@
 name: bw_to_rgb
 description: Convert Black and White to RGB and vice versa
 version: 1.0.0
+repository: https://github.com/LiveUser/bw_to_rgb
 # homepage: https://www.example.com
 
 environment:
